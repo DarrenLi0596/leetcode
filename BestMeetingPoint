@@ -1,4 +1,4 @@
-public int minTotalDistance(int[][] grid){
+	public int minTotalDistance(int[][] grid){
 		int m = grid.length;
 		int n = grid[0].length;
 		List<Integer> I = new ArrayList<Integer>();
